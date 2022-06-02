@@ -9,8 +9,9 @@
 
 - Major languages
   HTML , js
-- Frameworks json
+- Frameworks 
 - Technologies used
+    JSON Text-based-Format
 
 ## Live Demo (if available)
 
