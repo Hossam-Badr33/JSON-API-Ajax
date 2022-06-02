@@ -1,0 +1,8 @@
+{
+  "string": "hossam",
+  "number": 38,
+  "array": [100, "developer"],
+  "boolyen": true,
+  "Object": { "city": "Cairo", "residence": "Moscow" },
+  "null": null
+}
