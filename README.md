@@ -1,25 +1,25 @@
 # Project Name
-# json-tutorials
+
+# json-API-Ajax tutorials
 
 > Description the project.
-Explain Flex-box tutorials basics and examples
+> Explain Flex-box tutorials basics and examples
 
 ## Built With
 
 - Major languages
-  HTML 
+  HTML , js
 - Frameworks json
 - Technologies used
 
 ## Live Demo (if available)
-  NA
 
+NA
 
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -34,8 +34,6 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-
-
 
 ## Authors
 
